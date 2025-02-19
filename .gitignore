@@ -1,0 +1,12 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar los archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
